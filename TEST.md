@@ -1,0 +1,1 @@
+curl --request GET 'localhost:8080/trip?driver_id=1&client_id=1&request_id=1&trip_id=1&timestamp=111'
