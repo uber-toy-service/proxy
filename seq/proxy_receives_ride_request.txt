@@ -1,0 +1,7 @@
+title Proxy receives ride request
+
+Offeror -> Proxy: Require a ride
+
+Proxy->Proxy: generate an ID of the request
+
+Proxy->Trip Management: pass the request, unmodified, plus the generated ID.
